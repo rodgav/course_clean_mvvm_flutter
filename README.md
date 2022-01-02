@@ -1,4 +1,4 @@
-# juliaca_store0
+# course_clean_mvvm_flutter
 
 A new Flutter project.
 
